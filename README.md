@@ -4,4 +4,4 @@
 * Python
 * 잘지내요
 * Git은 어렵네요
-* :weight lifting: 
+* :weight_lifting:
